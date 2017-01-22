@@ -16,6 +16,7 @@ Version | Description  | Editor
 *v1.1* | Changed photos and quotes. | `arnoldmyint`
 *v1.2* | Added quotes on the images. | `wsyccc`
 *v1.3* | Added a random() method. Can be called from quotes.local:8080/index.php/welcome/random. | `arnoldmyint`
+*v1.4* | Added a new quote with a photo. | `arnoldmyint`
 
 
 
