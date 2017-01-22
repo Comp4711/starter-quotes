@@ -22,7 +22,9 @@ class Quotes extends CI_Model {
 		array('id' => '5', 'who' => 'Joker', 'mug' => 'socrates-150x150.jpg', 'where' => '/wise/bingo',
 			'what' => 'If you\'re good at something never do it for free.'),
 		array('id' => '6', 'who' => 'Yo Gotti', 'mug' => 'isaac-asimov-150x150.jpg', 'where' => '/comp4711/wisdom',
-			'what' => 'I\'m Lebron James you\'re a f**king rookie')
+			'what' => 'I\'m Lebron James you\'re a f**king rookie'),
+		array('id' => '7', 'who' => 'Yoda', 'mug' => 'Anonymous2-150x150.jpg', 'where' => '/comp4711/wisdom',
+			'what' => 'Do or do not. There is no try.')
 	);
 
 	// Constructor
