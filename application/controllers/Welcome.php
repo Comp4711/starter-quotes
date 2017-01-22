@@ -39,7 +39,7 @@ class Welcome extends Application
 		$this->data['pagebody'] = 'homepage';
 
 		// build the list of authors, to pass on to our view
-		$ranNo = rand(1,6);
+		$ranNo = rand(1,7);
 		$source = array($this->quotes->get($ranNo));
 
 		$authors = array ();
